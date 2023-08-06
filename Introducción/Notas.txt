@@ -1,0 +1,63 @@
+---- Notas ----
+Para crear "Busquedas guardadas" usar: Informes -> Busquedas guardadas -> Todas las busquedas guardadas -> Nuevo
+
+---- Clase01 - Introduction to Advanced Searches ----
+1. Informes -> Busquedas guardadas -> JEL | 01 Customer Search ----> Tipo de Búsqueda: Cliente
+ID: customsearch_jel_01_customer_search
+
+---- Clase03 - Setting Criteria ----
+1. Informes -> Busquedas guardadas -> JEL | DEMO | 03 Setting Criteria ----> Tipo de Búsqueda: Cliente
+ID: customsearch_jel_demo_03_empressions
+
+2. Informes -> Busquedas guardadas -> JEL | DEMO | 03 Setting Criteria- Transaction- Results ----> Tipo de Búsqueda: Transacción
+ID: customsearch_jel_demo_03_set_crit_txn
+
+---- Clase04 - Introduction to Formulas ----
+1. Informes -> Busquedas guardadas -> JEL | DEMO | 04 Introduction to Formulas ----> Tipo de Busqueda: Cliente
+ID: customsearch_jel_demo_04_intro_formulas
+
+---- Clase05 - Introduction to Functions ----
+
+---- Clase06 - Text Formulas and Functions ----
+
+---- Clase07 - Text Datatype Conversion ----
+
+---- Clase08 - Numeric Formulas and Functions ----
+
+---- Clase09 - Date Formulas and Functions ----
+
+---- Clase10 - Conditional Logic Formulas ----
+
+---- Clase11 - Rank Formulas ----
+
+---- Clase12 - Formulas in Criteria and Highligths ----
+
+---- Clase13 - Group and Aggregate Functions ----
+1. Informes -> Busquedas guardadas -> JEL | DEMO | 13 Group Functions ----> Tipo de Busqueda: Cliente
+ID: customsearch_jel_demo_13_group_functions
+
+2. Informes -> Busquedas guardadas -> JEL | DEMO | 13c Group Functions Graph ----> Tipo de Busqueda: Cliente
+ID: customsearch_jel_demo_13_group_fun_graph
+
+3. Informes -> Busquedas guardadas -> JEL | DEMO | 13d Aggregate Functions ----> Tipo de Busqueda: Cliente
+ID: customsearch_jel_demo_13_aggregate_fun
+
+---- Clase14 - Introduction to HTML ----
+
+---- Clase15 - HTML for Formatting ----
+1. Informes -> Busquedas guardadas -> JEL | DEMO | 15 HTML in Labels
+'<a href="javascript:alert(''¡Esto es una prueba de alerta!'')">Prueba</a>'
+
+---- Clase16 - HTML for Links ----
+1. Informes -> Busquedas guardadas -> JEL | DEMO | 16 HTML Links
+'<a href="https://www.netsuite.com/portal/services/training/suite-training/catalog.shtml" target="_blank">Training Catalog</a>'
+
+---- Clase17 - HTML for Images ----
+1. Informes -> Busquedas guardadsa -> JEL | DEMO | 16b HTML Links - Internal Tasks
+'<a href="/app/crm/calendar/task.nl?id='  || {task.internalid}  || '&e=T&l=T&whence=" target="_blank">' || {task.title} || '</a>'
+
+---- Clase18 - Matrix Searches ----
+
+---- Clase19 - Transaction Searches ----
+
+---- Clase20 - Audit Searches ----
